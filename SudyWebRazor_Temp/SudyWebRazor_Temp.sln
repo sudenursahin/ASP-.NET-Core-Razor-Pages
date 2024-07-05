@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35017.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SudyWebRazor_Temp", "SudyWebRazor_Temp.csproj", "{63F7C50C-857E-48DA-BBE1-FE1B83514EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F7C50C-857E-48DA-BBE1-FE1B83514EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F7C50C-857E-48DA-BBE1-FE1B83514EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F7C50C-857E-48DA-BBE1-FE1B83514EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F7C50C-857E-48DA-BBE1-FE1B83514EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DF0FD7F-53FF-47BB-8DCA-798D9A2223F3}
+	EndGlobalSection
+EndGlobal

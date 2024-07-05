@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SudyWebRazor_Temp.props" />
+</Project>
